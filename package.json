@@ -4,7 +4,11 @@
   "description": "https://github.com/agentblezor/ono-tebe-nado-fd",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   },
   "repository": {
     "type": "git",
@@ -18,3 +22,5 @@
   },
   "homepage": "https://github.com/agentblezor/ono-tebe-nado-fd#readme"
 }
+          
+

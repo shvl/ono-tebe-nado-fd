@@ -1,0 +1,22 @@
+{
+  "name": "ono-tebe-nado-fd",
+  "version": "1.0.0",
+  "description": "https://github.com/agentblezor/ono-tebe-nado-fd",
+  "main": "index.js",
+  "scripts": {
+"start": "node app.js",
+  "build": "webpack",
+  "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentblezor/ono-tebe-nado-fd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agentblezor/ono-tebe-nado-fd/issues"
+  },
+  "homepage": "https://github.com/agentblezor/ono-tebe-nado-fd#readme"
+}
