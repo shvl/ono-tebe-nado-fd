@@ -1,1 +1,1 @@
-https://github.com/agentblezor/ono-tebe-nado-fd
+https://github.com/shvl/ono-tebe-nado-fd
